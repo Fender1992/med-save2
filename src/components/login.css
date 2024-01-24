@@ -1,0 +1,31 @@
+.login-container {
+  padding: 10px;
+}
+.sign-up {
+  padding-right: 10px;
+  font-size: 30px;
+}
+.username-password {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100px;
+}
+.username {
+  margin: 10px;
+  height: 55px;
+  font-size: 30px;
+}
+.password {
+  margin: 10px;
+  height: 55px;
+  font-size: 30px;
+}
+.login-btn {
+  background-color: lightblue;
+  border-radius: 90px;
+  border-radius: 10px;
+  height: 55px;
+  margin-bottom: 45px;
+  width: 100px;
+}
